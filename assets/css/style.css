@@ -140,6 +140,14 @@ header p {
   margin-top: 20px;
 }
 
+.article_top_section .scroll_more {
+  font-family: 'Roboto-Bold', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--color_red_rose);
+  text-transform: uppercase;
+}
+
 .rocket_article {
   display: flex;
 }
